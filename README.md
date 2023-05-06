@@ -1,2 +1,2 @@
-# home-page
-Mi pagina web principal
+# Ignacio N. Mendieta 
+Mi pagina web... simple, muy simple.
